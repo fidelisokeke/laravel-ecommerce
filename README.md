@@ -62,4 +62,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # laravel-ecommerce
 
 SnapShots
-![Application Logic](screenshots/hero.png)
+![Application Logic](screenshots2/code.png)
